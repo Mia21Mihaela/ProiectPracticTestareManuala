@@ -75,7 +75,7 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 ## 2. Test process
 
 ### 2.1 Test planing
-_Roles and responsabilities_
+***Roles and responsabilities***
 
 
 
