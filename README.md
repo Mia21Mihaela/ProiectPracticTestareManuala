@@ -5,7 +5,7 @@
 | 05.05.2023 | Test Plan for version 0.55 | Matei Oltean|   |
 | 07.07.2023 | Test Plan for version 1.0 | Adelina Pop | Added more details for Test Implementation |
 
-1. Introduction
+ 1. Introduction
      
       1.1 Project Objective
      
@@ -47,11 +47,17 @@
      
       3.8 Test completion report
 
- 
-    
+ -------
+## 1. Introduction
+<p> The Guru99 Bank project aims to provide a net banking facility to its customers.
+This release will have limited features. Over a period of time , new and new functionalities will be added to the site. </p>
 
 
-
+### 1.1 Project Objective
+<p> We need to raise the trust in the quality of the project as high as possible before releasing it to customers. </p>
+<p> The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice, using an available application. </p>
+<p> Application under test: https://demo.guru99.com/V4/index.php </p>
+<p> Application documentation:  https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit </p>
 
 
 
