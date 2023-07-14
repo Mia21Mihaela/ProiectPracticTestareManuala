@@ -59,6 +59,14 @@ This release will have limited features. Over a period of time , new and new fun
 <p> Application under test: https://demo.guru99.com/V4/index.php </p>
 <p> Application documentation:  https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit </p>
 
+### 1.2  Functionalities in scope
+<p> Here we should write all the functionalities that are included in the release.
+e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report, Transactions of the account, Remaining funds, Security settings, Security Improvements </p>
+
+* The features in scope for testing: Add funds, Withdraw funds, Send money
+* Testing types used: functional testing, GUI testing
+
+
 
 
 
