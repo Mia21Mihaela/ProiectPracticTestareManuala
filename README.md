@@ -66,6 +66,16 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 * The features in scope for testing: Add funds, Withdraw funds, Send money
 * Testing types used: functional testing, GUI testing
 
+### 1.3 Functionalities and tests out of scope
+* The features out of scope: Monthly funds report, Transactions of the account, Remaining funds, Security settings, Security Improvements
+* Non-functional testing like stress, performance is beyond scope of this project.
+* No QA support for mobile applications developed. Only web applications will be tested.
+* Automation testing is beyond scope.
+
+## 2. Test process
+
+### 2.1 Test planing
+_Roles and responsabilities_
 
 
 
