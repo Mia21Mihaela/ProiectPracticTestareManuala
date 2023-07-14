@@ -77,8 +77,9 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 ### 2.1 Test planing
 ***Roles and responsabilities***
 
+| Role  | Name  | Task/Work | 
+|---|---|---|
 | Senior Tester  | Matei Oltean  | will test: Add funds, Withdraw funds | 
-|---|---|---|---|
 | Tester | Adelina Pop | will test: Sends money | 
 
 ***Entry criteria***
