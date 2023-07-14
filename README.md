@@ -48,12 +48,11 @@
       3.8 Test completion report
 
  -------
- ## 1. Introduction
+   ## 1. Introduction
 <p> The Guru99 Bank project aims to provide a net banking facility to its customers.
 This release will have limited features. Over a period of time , new and new functionalities will be added to the site. </p>
 
-
-  ### 1.1 Project Objective
+### 1.1 Project Objective
 <p> We need to raise the trust in the quality of the project as high as possible before releasing it to customers. </p>
 <p> The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice, using an available application. </p>
 <p> Application under test: https://demo.guru99.com/V4/index.php </p>
@@ -72,7 +71,7 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 * No QA support for mobile applications developed. Only web applications will be tested.
 * Automation testing is beyond scope.
 
-## 2. Test process
+  ## 2. Test process
 
 ### 2.1 Test planing
 ***Roles and responsabilities***
@@ -132,7 +131,7 @@ Test environment is up and running: https://demo.guru99.com/V4/index.php
 ### 2.7 Test monitoring and control
 * Various periodic reports (daily/weekly/bi-weekly) will be generated to reflect the current status of the testing process. 
 
-## 3. Test deliverables
+  ## 3. Test deliverables
 
 ### 3.1 Test plan - link to test plan
 * The Test Plan is designed to describe all the details of testing for the following features: Add funds, Withdraw funds, Send money from Guru99 application
