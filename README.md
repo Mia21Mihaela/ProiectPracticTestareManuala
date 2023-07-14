@@ -147,6 +147,7 @@ Test environment is up and running: https://demo.guru99.com/V4/index.php
 
 ### 3.4 Daily/Weekly/Bi-weekly test summary report
 * link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc) ***vom adauga link catre screenshot cu cu test summary report incarcat pe github SAU incarcam imaginea cu raportul direct pe github. Raportul va fi generat din Jira pe masura ce executam test caseurile.***
+* [Test Condisions](https://github.com/Mia21Mihaela/ProiectPracticTestareManuala/blob/main/_Intalnirea%203_SoftwareTestingHelp_OrangeHRM-Cerinte%20de%20business%20-%20REVIEW%20DOCUMENT.docx.pdf)
 
 ### 3.5 Traceability matrix
 * Link to traceability matrix ***vom incarca pe github un screenshot din Jira***
