@@ -98,7 +98,7 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 * user data (banking related data, funds, transactions, etc) might be impacted with update tests
 * stability risks (crashes, disconnects, etc)
 * IE browser might have performance issues
-versions of IE older than 1.5923e have security vulnerabilities (we could mention what vulnerabilities are)
+* versions of IE older than 1.5923e have security vulnerabilities (we could mention what vulnerabilities are)
 * the web page pagination could be impacted when opened on mobile devices
 * stress conditions might impact the web application
 * new browser might not be supported
